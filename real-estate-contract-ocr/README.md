@@ -64,6 +64,4 @@ To improve recognition accuracy for real estate documents, you can train a custo
 └── tessdata/               # Custom trained Tesseract data
 ```
 
-## License
 
-MIT
